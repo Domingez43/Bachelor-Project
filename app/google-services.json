@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "184051903478",
+    "project_id": "bachelor-thesis-f9301",
+    "storage_bucket": "bachelor-thesis-f9301.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184051903478:android:8aa071094352946e2075d7",
+        "android_client_info": {
+          "package_name": "com.example.doorlock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184051903478-mecdjro3p6kekre6v48qmrb7s0c5i75g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChlwiETK4J5szoedxTNWaKPpcRhIbVmkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184051903478-mecdjro3p6kekre6v48qmrb7s0c5i75g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
